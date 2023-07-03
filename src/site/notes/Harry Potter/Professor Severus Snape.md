@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/professor-severus-snape/"}
+{"dg-publish":true,"permalink":"/harry-potter/professor-severus-snape/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
