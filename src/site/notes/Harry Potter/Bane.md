@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/bane/"}
+{"dg-publish":true,"permalink":"/harry-potter/bane/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Firenze\|Firenze]]
