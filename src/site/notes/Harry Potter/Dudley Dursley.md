@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/dudley-dursley/"}
+{"dg-publish":true,"permalink":"/harry-potter/dudley-dursley/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Cho Chang\|Cho Chang]]
