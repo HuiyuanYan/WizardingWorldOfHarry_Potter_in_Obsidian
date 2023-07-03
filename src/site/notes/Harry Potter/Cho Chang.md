@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/cho-chang/"}
+{"dg-publish":true,"permalink":"/harry-potter/cho-chang/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Cedric Diggory\|Cedric Diggory]]
