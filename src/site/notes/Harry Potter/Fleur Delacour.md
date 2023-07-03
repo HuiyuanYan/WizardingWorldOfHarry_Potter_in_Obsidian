@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/fleur-delacour/"}
+{"dg-publish":true,"permalink":"/harry-potter/fleur-delacour/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Bill Weasley\|Bill Weasley]]
