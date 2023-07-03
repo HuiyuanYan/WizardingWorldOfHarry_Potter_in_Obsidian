@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/harry-potter/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/harry-potter/harry-potter/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
