@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/albus-dumbledore/"}
+{"color":null,"dg-publish":true,"permalink":"/harry-potter/albus-dumbledore/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Angelina Johnson\|Angelina Johnson]]
