@@ -1,13 +1,43 @@
+/* 主题颜色 */
+$primary-color: #780116;
+$secondary-color: #fecb00;
+
+/* 页面背景色 */
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  background-color: #eaeaea;
+}
+
+/* 标题样式 */
+.heading {
+  color: $primary-color;
+  font-family: 'Times New Roman', serif;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+/* 节点样式 */
+.node {
+  background-color: $secondary-color;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+/* 连接线样式 */
+.link {
+  stroke: $primary-color;
+  stroke-width: 2px;
+}
+
+/* 高亮节点样式 */
+.node.highlighted {
+  background-color: #4d0000;
+}
+
+/* 高亮连接线样式 */
+.link.highlighted {
+  stroke: #fecb00;
+  stroke-width: 4px;
 }
