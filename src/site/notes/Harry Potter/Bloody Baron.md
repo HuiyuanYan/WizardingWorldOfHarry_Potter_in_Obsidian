@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/bloody-baron/"}
+{"dg-publish":true,"permalink":"/harry-potter/bloody-baron/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Hermione Granger\|Hermione Granger]]
