@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/dobby/"}
+{"dg-publish":true,"permalink":"/harry-potter/dobby/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
