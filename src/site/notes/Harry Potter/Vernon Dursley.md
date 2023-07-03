@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/vernon-dursley/","dgPassFrontmatter":true}
 ---
+
 [[Harry Potter/Cornelius Fudge\|Cornelius Fudge]]
 [[Harry Potter/Dudley Dursley\|Dudley Dursley]]
 [[Harry Potter/Harry Potter\|Harry Potter]]
