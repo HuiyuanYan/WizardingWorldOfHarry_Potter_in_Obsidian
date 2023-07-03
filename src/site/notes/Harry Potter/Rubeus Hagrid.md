@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/rubeus-hagrid/"}
+{"dg-publish":true,"permalink":"/harry-potter/rubeus-hagrid/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
