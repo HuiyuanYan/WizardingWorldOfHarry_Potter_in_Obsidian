@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/alicia-spinnet/"}
+{"dg-publish":true,"permalink":"/harry-potter/alicia-spinnet/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Angelina Johnson\|Angelina Johnson]]
