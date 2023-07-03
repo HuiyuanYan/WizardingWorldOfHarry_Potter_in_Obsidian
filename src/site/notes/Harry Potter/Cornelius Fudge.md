@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/cornelius-fudge/"}
+{"dg-publish":true,"permalink":"/harry-potter/cornelius-fudge/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
