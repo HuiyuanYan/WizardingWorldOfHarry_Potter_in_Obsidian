@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/colin-creevey/"}
+{"dg-publish":true,"permalink":"/harry-potter/colin-creevey/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Gibleroy Lockhart\|Gibleroy Lockhart]]
