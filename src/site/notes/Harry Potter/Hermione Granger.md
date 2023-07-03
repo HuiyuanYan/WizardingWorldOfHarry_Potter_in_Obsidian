@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/hermione-granger/","dgPassFrontmatter":true}
 ---
+
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
 [[Harry Potter/Bloody Baron\|Bloody Baron]]
 [[Harry Potter/Crookshanks\|Crookshanks]]
