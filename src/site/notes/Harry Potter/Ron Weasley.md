@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/ron-weasley/"}
+{"dg-publish":true,"permalink":"/harry-potter/ron-weasley/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
