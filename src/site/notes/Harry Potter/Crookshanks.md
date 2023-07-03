@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/crookshanks/","dgPassFrontmatter":true}
 ---
+
 [[Harry Potter/Charlie Weasley\|Charlie Weasley]]
 [[Harry Potter/Fred Weasley\|Fred Weasley]]
 [[Harry Potter/Hermione Granger\|Hermione Granger]]
