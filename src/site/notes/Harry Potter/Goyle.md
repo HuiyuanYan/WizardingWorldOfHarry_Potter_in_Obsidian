@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/goyle/"}
+{"dg-publish":true,"permalink":"/harry-potter/goyle/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Draco Malfoy\|Draco Malfoy]]
