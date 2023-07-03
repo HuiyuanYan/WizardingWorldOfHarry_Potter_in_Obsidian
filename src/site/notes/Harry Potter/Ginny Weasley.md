@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/ginny-weasley/"}
+{"dg-publish":true,"permalink":"/harry-potter/ginny-weasley/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Amos Diggory\|Amos Diggory]]
