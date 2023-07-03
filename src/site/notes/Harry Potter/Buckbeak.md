@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/buckbeak/"}
+{"dg-publish":true,"permalink":"/harry-potter/buckbeak/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Ginny Weasley\|Ginny Weasley]]
