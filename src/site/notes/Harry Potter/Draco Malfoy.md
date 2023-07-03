@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harry-potter/draco-malfoy/"}
+{"dg-publish":true,"permalink":"/harry-potter/draco-malfoy/","dgPassFrontmatter":true}
 ---
 
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
