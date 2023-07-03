@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/bill-weasley/","dgPassFrontmatter":true}
 ---
+
 [[Harry Potter/Charlie Weasley\|Charlie Weasley]]
 [[Harry Potter/Draco Malfoy\|Draco Malfoy]]
 [[Harry Potter/Fleur Delacour\|Fleur Delacour]]
