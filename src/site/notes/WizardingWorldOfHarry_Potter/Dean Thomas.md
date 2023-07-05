@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/dean-thomas/","dgPassFrontmatter":true}
 ---
+
 ![Dean Thomas](http://rxbg5ysja.bkt.gdipper.com/Dean_Thomas.png)
 # Introduction
 Dean Thomas (b. c. 1980) was an English half-blood wizard, the son of a wizard and a Muggle mother. When Dean Thomas was very young, his father died and his mother married another man, giving Dean several half-siblings. Since Dean's father never told his mother that he was a wizard and was eventually murdered by Death Eaters when he refused to join them, Dean grew up thinking he was Muggle-born.
