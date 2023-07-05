@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/ginny-weasley/","dgPassFrontmatter":true}
 ---
+
 ![Ginny Weasley](http://rxbg5ysja.bkt.gdipper.com/Ginny_Weasley.png)
 # Introduction
 Ginevra Molly "Ginny" Potter (née Weasley) (b. 11 August 1981), occasionally known as Gin by Harry Potter, was an English pure-blood witch, the only daughter of Arthur and Molly Weasley (née Prewett), and the younger sister of Bill, Charlie, Percy, the late Fred, George and Ron. She was the first female to be born into the Weasley line for several generations. She and her older brothers grew up in The Burrow on the outskirts of Ottery St Catchpole in Devon.
