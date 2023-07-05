@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/ernie-mcmillan/","dgPassFrontmatter":true}
 ---
+
 ![Ernie Mcmillan](http://rxbg5ysja.bkt.gdipper.com/Ernie_Mcmillan.png)
 # Introduction
 Ernest "Ernie" Macmillan (b. 1980) was a pure-blood wizard who attended Hogwarts School of Witchcraft and Wizardry from 1991-1998. He was in the same year as the famous Harry Potter and was sorted into Hufflepuff House. He was also born into the Macmillan family, one of the Sacred Twenty-Eight.
