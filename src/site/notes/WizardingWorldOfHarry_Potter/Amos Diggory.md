@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/amos-diggory/","dgPassFrontmatter":true}
 ---
+
 ![Amos Diggory](http://rxbg5ysja.bkt.gdipper.com/Amos_Diggory.png)
 # Introduction
 Amos Diggory was a British wizard who worked for the Department for the Regulation and Control of Magical Creatures in the British Ministry of Magic. He and his wife lost their son Cedric on 24 June 1995 during the last and third task in the Triwizard Tournament, when he was murdered by Peter Pettigrew on Lord Voldemort's orders.
