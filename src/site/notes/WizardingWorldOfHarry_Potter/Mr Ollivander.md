@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/mr-ollivander/","dgPassFrontmatter":true}
 ---
+
 ![Mr Ollivander](http://rxbg5ysja.bkt.gdipper.com/Mr_Ollivander.png)
 # Introduction
 Garrick Ollivander (b. 25 September pre-1909) was a half-blood wizard who was the proprietor of Ollivanders in Diagon Alley during most of the 20th century. Ollivander was widely considered the best wandmaker in the world, and many wizards and witches bought their wands from him.
