@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/slytherin/","dgPassFrontmatter":true}
 ---
+
 ![Slytherin](http://rxbg5ysja.bkt.gdipper.com/Slytherin.png)
 # Introduction
 Slytherin was one of the four Houses at Hogwarts School of Witchcraft and Wizardry, founded by Salazar Slytherin. In establishing the house, Salazar instructed the Sorting Hat to pick students who had a few particular characteristics he most valued. Those characteristics included cunning, resourcefulness, leadership, and ambition. 
