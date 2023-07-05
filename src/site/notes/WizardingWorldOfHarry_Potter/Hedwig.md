@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/hedwig/","dgPassFrontmatter":true}
 ---
+
 ![Hedwig](http://rxbg5ysja.bkt.gdipper.com/Hedwig.png)
 # Introduction
 Hedwig (d. 27 July 1997) was Harry Potter's pet female snowy owl. Hedwig was an eleventh birthday gift from Rubeus Hagrid to Harry. Hagrid purchased her at the Eeylops Owl Emporium.
