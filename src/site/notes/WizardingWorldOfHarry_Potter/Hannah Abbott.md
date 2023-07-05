@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/hannah-abbott/","dgPassFrontmatter":true}
 ---
+
 ![Hannah Abbott](http://rxbg5ysja.bkt.gdipper.com/Hannah_Abbott.png)
 # Introduction
 Hannah Abbott (b. 1979/1980) was a half-blood witch and a member of the Abbott family. In September 1991, she started attending Hogwarts School of Witchcraft and Wizardry and was Sorted into Hufflepuff House. Hannah was in the same year as the famous Harry Potter.
