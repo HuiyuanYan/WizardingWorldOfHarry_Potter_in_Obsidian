@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/crookshanks/","dgPassFrontmatter":true}
 ---
+
 ![Crookshanks](http://rxbg5ysja.bkt.gdipper.com/Crookshanks.png)
 # Introduction
 Crookshanks was Hermione Granger's pet cat. He was half-Kneazle, as evidenced by his lion-like appearance, ability to solve problems on his own without aid or teaching, and clear dislike of and ability at recognising untrustworthy persons (even if they are transfigured).
