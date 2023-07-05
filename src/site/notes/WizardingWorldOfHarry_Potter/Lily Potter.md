@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/lily-potter/","dgPassFrontmatter":true}
 ---
+
 ![Lily Potter](http://rxbg5ysja.bkt.gdipper.com/Lily_Potter.png)
 # Introduction
 Lily J. Potter (née Evans) (30 January 1960 – 31 October 1981) was an English Muggle-born witch, the younger daughter of Mr and Mrs Evans, and the younger sister of Petunia Evans. She learned of her magical nature as a child, after Severus Snape recognised her as a witch and told her of the existence of magic. Lily attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978. She was Sorted into Gryffindor House and was a member of the Slug Club. In her seventh year she was made Head Girl and began dating James Potter.
