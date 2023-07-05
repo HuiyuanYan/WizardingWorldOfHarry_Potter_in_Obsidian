@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/tom-riddle/","dgPassFrontmatter":true}
 ---
+
 ![Tom Riddle](http://rxbg5ysja.bkt.gdipper.com/Tom_Riddle.png)
 # Introduction
 Tom Marvolo Riddle (31 December 1926 – 2 May 1998), later known as Lord Voldemort or, alternatively as the Dark Lord, You-Know-Who, or He-Who-Must-Not-Be-Named was an English half-blood wizard considered to have been the most powerful and dangerous Dark wizard of all time. He was amongst the greatest wizards to have ever lived, rivalled only by Albus Dumbledore. Descended from Salazar Slytherin on his mother's side through the House of Gaunt, Tom Riddle was conceived whilst his father, Tom Riddle Senior, was under the effects of a love potion supplied by his mother, Merope Gaunt. When the enchantment was lifted, Tom's father abandoned his pregnant wife and returned to Little Hangleton. His mother died moments after giving birth to and naming him. She named him after his father (Tom) and maternal grandfather, Marvolo Gaunt. Tom was raised in the Muggle-run Wool's Orphanage.  
