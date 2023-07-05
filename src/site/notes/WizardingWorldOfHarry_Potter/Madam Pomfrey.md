@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/madam-pomfrey/","dgPassFrontmatter":true}
 ---
+
 ![Madam Pomfrey](http://rxbg5ysja.bkt.gdipper.com/Madam_Pomfrey.png)
 # Introduction
 Madam Poppy Pomfrey was a British or Irish witch and the matron at Hogwarts School of Witchcraft and Wizardry. She was a very competent Healer, having been in the position for, at least, the last quarter of the 20th century.
