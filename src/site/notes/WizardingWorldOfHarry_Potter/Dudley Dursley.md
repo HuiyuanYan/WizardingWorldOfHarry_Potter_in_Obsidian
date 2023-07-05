@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/dudley-dursley/","dgPassFrontmatter":true}
 ---
+
 ![Dudley Dursley](http://rxbg5ysja.bkt.gdipper.com/Dudley_Dursley.png)
 # Introduction
 Dudley Dursley (b. 23 June 1980) was the Muggle son of Vernon and Petunia Dursley and cousin of Harry Potter. He was obese and insolent as a result of his parents spoiling him throughout his childhood, although he became muscular in his teens. He and his gang often tormented Harry as well as other weaker and younger children in their neighbourhood and at school, taking after the example set by Dudley's parents.
