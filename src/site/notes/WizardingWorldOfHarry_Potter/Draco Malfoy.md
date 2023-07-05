@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/draco-malfoy/","dgPassFrontmatter":true}
 ---
+
 ![Draco Malfoy](http://rxbg5ysja.bkt.gdipper.com/Draco_Malfoy.png)
 # Introduction
 Draco Lucius Malfoy (b. 5 June 1980) was a British pure-blood wizard and the only son of Lucius and Narcissa Malfoy (née Black). The son of a Death Eater, Draco was raised to strongly believe in the importance of blood purity. He looked down on half-bloods and Muggle-borns.
