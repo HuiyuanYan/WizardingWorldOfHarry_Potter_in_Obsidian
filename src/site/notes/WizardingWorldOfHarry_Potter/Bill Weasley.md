@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/bill-weasley/","dgPassFrontmatter":true}
 ---
+
 ![Bill Weasley](http://rxbg5ysja.bkt.gdipper.com/Bill_Weasley.png)
 # Introduction
 William Arthur "Bill" Weasley (b. 29 November 1970) was an English pure-blood wizard, the first child of Arthur and Molly Weasley (née Prewett) and the eldest brother of Charlie, Percy, the late Fred, George, Ron, and Ginny. He attended Hogwarts School of Witchcraft and Wizardry from 1982 to 1989 and was Sorted into Gryffindor House. Bill was both a Prefect and Head Boy. 
