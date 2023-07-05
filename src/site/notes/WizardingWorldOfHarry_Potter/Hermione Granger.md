@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/hermione-granger/","dgPassFrontmatter":true}
 ---
+
 ![Hermione Granger](http://rxbg5ysja.bkt.gdipper.com/Hermione_Granger.png)
 # Introduction
 Minister Hermione Jean Granger (b. 19 September 1979) was an English Muggle-born witch born to Mr and Mrs Granger. At the age of eleven, she learned about her magical nature and was accepted into Hogwarts School of Witchcraft and Wizardry. Hermione began attending Hogwarts in 1991 and was Sorted into Gryffindor House. She possessed a brilliant academic mind and proved to be a gifted student in almost every subject that she studied, to the point where she was nearly made a Ravenclaw by the Sorting Hat. 
