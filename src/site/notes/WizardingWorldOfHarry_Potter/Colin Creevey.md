@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/colin-creevey/","dgPassFrontmatter":true}
 ---
+
 ![Colin Creevey](http://rxbg5ysja.bkt.gdipper.com/Colin_Creevey.png)
 # Introduction
 Colin Creevey (1981 – 2 May 1998) was a Muggle-born wizard, son of Mr Creevey and Mrs Creevey, and older brother of Dennis. He was a big fan of the famous Harry Potter, who was a year ahead of him in school.
