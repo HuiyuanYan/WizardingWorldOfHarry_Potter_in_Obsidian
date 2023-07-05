@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/buckbeak/","dgPassFrontmatter":true}
 ---
+
 ![Buckbeak](http://rxbg5ysja.bkt.gdipper.com/Buckbeak.png)
 # Introduction
 Buckbeak, later renamed Witherwings, was a male hippogriff. He lived with Rubeus Hagrid during Harry Potter's third year at Hogwarts, along with a few other hippogriffs.
