@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/cho-chang/","dgPassFrontmatter":true}
 ---
+
 ![Cho Chang](http://rxbg5ysja.bkt.gdipper.com/Cho_Chang.png)
 # Introduction
 Cho Chang (b. 1978/1979) was a witch who attended Hogwarts School of Witchcraft and Wizardry from 1990-1997 and was sorted into Ravenclaw House. She was a Seeker for the Ravenclaw Quidditch team and a popular student. She was also one year ahead of the famous Harry Potter.
