@@ -45,3 +45,5 @@ We recommend starting your exploration with a few key characters:
 
 If you like this site, please star our github [project](https://github.com/HuiyuanYan/WizardingWorldOfHarry_Potter_in_Obsidian.git).THANKSSSSSS!!!!!!!
 
+<embed src="//music.163.com/style/swf/widget.swf?sid=483024749&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+
